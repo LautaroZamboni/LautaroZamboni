@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy Lautaro Zamboni
+# Hola, soy Lautaro Zamboni
 
 ## Sobre mí
 
@@ -8,7 +8,7 @@ Soy **Licenciado en Biología** y actualmente curso la **Maestría en Geomática
 Mi interés profesional se centra en la aplicación de herramientas geoespaciales para el análisis ambiental, la gestión de recursos naturales y la planificación territorial.
 Actualmente estoy incorporando **Python** para automatizar procesos de análisis de datos, teledetección y Sistemas de Información Geográfica (SIG).
 
-## 🛰️ Áreas de interés
+## Áreas de interés
 
 * Sistemas de Información Geográfica (SIG)
 * Teledetección y análisis espacial
@@ -28,13 +28,13 @@ Actualmente estoy incorporando **Python** para automatizar procesos de análisis
 * Sentinel-2 y Landsat
 * Análisis espacial y procesamiento de datos geográficos
 
-## 🌱 Actualmente
+## Actualmente
 
 * Aprendiendo Python aplicado a SIG y teledetección.
 * Desarrollando proyectos de análisis ambiental mediante datos satelitales y herramientas geoespaciales.
 * Construyendo un perfil profesional orientado a SIG, teledetección y gestión ambiental.
 
-## 🤝 Colaboración
+## Colaboración
 
 Estoy interesado en colaborar en proyectos relacionados con:
 
@@ -44,9 +44,8 @@ Estoy interesado en colaborar en proyectos relacionados con:
 * Teledetección y análisis espacial
 * Gestión de riesgos ambientales
 
-## 🚀 Proyectos
-
-🌿 Green Sanctuary
+## Proyectos
+ Green Sanctuary
 
 Iniciativa orientada a promover la incorporación de soluciones basadas en la naturaleza dentro de empresas y organizaciones, con el objetivo de contribuir al bienestar de las personas, mejorar la calidad ambiental de los espacios y fortalecer el posicionamiento institucional.
 
